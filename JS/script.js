@@ -59,7 +59,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'rigth' });
 
 /* typed js*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Front End', 'Mobile'],
+    strings: ['Mobile'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
