@@ -527,3 +527,15 @@ span {
         margin-top: 2rem;
     }
 }
+
+
+/* thank you page */
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: var(--bg-color);
+    flex-direction: column;
+    margin-bottom: 100px;
+}
