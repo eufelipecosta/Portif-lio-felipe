@@ -294,11 +294,11 @@ span {
 }
 
 .portfolio-layer h4 {
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .portfolio-layer p {
-    font-size: 1.6rem;
+    font-size: 1rem;
     margin: .3rem 0 1rem;
 }
 
@@ -306,14 +306,14 @@ span {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 5rem;
-    height: 5rem;
+    width: 2rem;
+    height: 2rem;
     background: var(--text-color);
     border-radius: 50%;
 }
 
 .portfolio-layer a i {
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: var(--second-bg-color);
 }
 
