@@ -440,8 +440,8 @@ span {
         width: 100%;
         padding: 1rem 3%;
         background: var(--bg-color);
-        border-top: .1rem solid rgba(0, 0, 0, .2);
-        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .2);
+        border-top: .1rem solid rgba(0, 0, 0, 0.250);
+        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.250);
         display: none;
     }
 
@@ -498,13 +498,13 @@ span {
     }
 
     .portfolio-layer p {
-        font-size: 2.5rem;
+        font-size: 2.2rem;
     }
 
     .portfolio-layer a {
         width: 5rem;
         height: 5rem;
-        margin-bottom: 2.5rem;
+        margin-bottom: 3.2rem;
     }
 
     .portfolio-layer a i {
