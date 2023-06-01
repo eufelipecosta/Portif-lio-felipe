@@ -494,16 +494,17 @@ span {
     }
 
     .portfolio-layer h4 {
-        font-size: 3rem;
+        font-size: 3.5rem;
     }
 
     .portfolio-layer p {
-        font-size: 1.9rem;
+        font-size: 2.5rem;
     }
 
     .portfolio-layer a {
         width: 5rem;
         height: 5rem;
+        margin-bottom: 2.5rem;
     }
 
     .portfolio-layer a i {
