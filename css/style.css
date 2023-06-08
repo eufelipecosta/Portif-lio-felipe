@@ -287,6 +287,8 @@ span {
     padding: 0 4rem;
     transform: translateY(100%);
     transition: .5s ease;
+    justify-content: space-between;
+    display: inline-block;
 }
 
 .portfolio-box:hover .portfolio-layer {
@@ -310,11 +312,13 @@ span {
     height: 2rem;
     background: var(--text-color);
     border-radius: 50%;
+    margin-left: 15px;
 }
 
 .portfolio-layer a i {
     font-size: 1.5rem;
     color: var(--second-bg-color);
+    
 }
 
 
@@ -502,15 +506,14 @@ span {
     }
 
     .portfolio-layer a {
+        display: inline-block;
         margin-top: 3rem;
         width: 5rem;
         height: 5rem;
-        
     }
 
     .portfolio-layer a i {
-        font-size: 4rem;
-        
+        font-size: 4rem;    
     }
 }
 
