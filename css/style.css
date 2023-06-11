@@ -297,6 +297,7 @@ span {
 
 .portfolio-layer h4 {
     font-size: 2rem;
+    margin-top: 2rem;
 }
 
 .portfolio-layer p {
@@ -444,8 +445,8 @@ span {
         width: 100%;
         padding: 1rem 3%;
         background: var(--bg-color);
-        border-top: .1rem solid rgba(0, 0, 0, 0.250);
-        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.250);
+        border-top: .1rem solid rgba(0, 0, 0, 0.500);
+        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.500);
         display: none;
     }
 
@@ -498,6 +499,7 @@ span {
     }
 
     .portfolio-layer h4 {
+        margin-top: 3rem;
         font-size: 3.5rem;
     }
 
@@ -510,6 +512,7 @@ span {
         margin-top: 3rem;
         width: 5rem;
         height: 5rem;
+        padding-top: 0.5rem;
     }
 
     .portfolio-layer a i {
