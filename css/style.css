@@ -319,7 +319,28 @@ span {
 .portfolio-layer a i {
     font-size: 1.5rem;
     color: var(--second-bg-color);
+}
+
+.subtitles h6 {
+    font-size: 2.5rem;
+}
+
+.subtitles  i {
+    font-size: 2.7rem;  
+    margin-bottom: 1rem;
+    color: var(--main-color);
     
+}
+
+.subtitles p {
+    display: inline-flex;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+}
+
+.center p i {
+    justify-content: center;
 }
 
 
