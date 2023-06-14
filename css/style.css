@@ -253,6 +253,7 @@ span {
         grid-template-columns: repeat(3, 1fr);
         align-items: center;
         gap: 2.5rem;
+        margin-top: 1.5rem;
 }
 
 .portfolio-container .portfolio-box {
@@ -322,12 +323,12 @@ span {
 }
 
 .subtitles h6 {
-    font-size: 2.5rem;
+    font-size: 2.0rem;
     margin-bottom: 1.5rem;
 }
 
 .subtitles  i {
-    font-size: 2.7rem;  
+    font-size: 2rem;  
     margin-bottom: 1rem;
     color: var(--main-color);
     
@@ -335,7 +336,7 @@ span {
 
 .subtitles p {
     display: inline-flex;
-    font-size: 2rem;
+    font-size: 1.9rem;
     margin-bottom: 0.7rem;
     margin-left: 1rem;
 }
@@ -456,7 +457,17 @@ span {
 
     .subtitles p {
         margin-bottom: 0.5rem;
+        display: inline-flex;
+        font-size: 2rem;
+        margin-left: 1rem;
     }
+
+    .subtitles  i {
+        font-size: 2.7rem;  
+        margin-bottom: 1rem;
+        color: var(--main-color); 
+    }
+    
 }
 
 @media (max-width: 768px) {
