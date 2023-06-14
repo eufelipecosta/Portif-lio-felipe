@@ -50,8 +50,8 @@ ScrollReveal({
 });
 
 ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
-ScrollReveal().reveal('.home-img, .services-container, .portfolio-box, .contact form', { origin: 'bottom' });
-ScrollReveal().reveal('.home-content h1, .about-img, .about-content', { origin: 'left' });
+ScrollReveal().reveal('.home-img, .services-container, .portfolio-box, .contact form ',  { origin: 'bottom' });
+ScrollReveal().reveal('.home-content h1, .about-img, .about-content, .subtitles',{ origin: 'left' });
 
 
 
